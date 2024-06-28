@@ -1,6 +1,6 @@
-# landingPageMobile
+# LandingPageMobile
 
-landingPageMobile es una landing page de ejemplo para la creación de una página web.
+LandingPageMobile es una landing page de ejemplo para la creación de una página web.
 
 ## Descripción
 
@@ -27,7 +27,7 @@ landingPageMobile es una aplicación diseñada para servir como ejemplo de una l
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/landingPageMobile.git
+    git clone https://github.com/Raulcudris/LandingPageWeb-1.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
@@ -57,7 +57,7 @@ Si deseas contribuir al desarrollo de landingPageMobile, por favor sigue estos p
 1. Haz un fork del repositorio.
 2. Crea una nueva rama:
     ```bash
-    git checkout -b nombre-de-tu-rama
+    git checkout -b main
     ```
 3. Realiza tus cambios y haz un commit:
     ```bash
@@ -65,7 +65,7 @@ Si deseas contribuir al desarrollo de landingPageMobile, por favor sigue estos p
     ```
 4. Envía tus cambios a tu repositorio forked:
     ```bash
-    git push origin nombre-de-tu-rama
+    git push origin main
     ```
 5. Crea un pull request en el repositorio original.
 
@@ -76,5 +76,4 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 ## Contacto
 
 Para más información, preguntas o sugerencias, por favor contacta a:
-- **Correo electrónico**: tu-correo@example.com
-- **Sitio web**: [tu-sitio-web.com](http://tu-sitio-web.com)
+- **Correo electrónico**: raulcudriz@hotmail.com
