@@ -2,8 +2,8 @@ import React from "react";
 
 export const Home = () => {
   return (
-    <>
-      <section className="w3l-banner-main">
+    <div>
+       <section className="w3l-banner-main">
         <div className="bannerhny-content text-center">
           <h3 data-aos="fade-up">
             Manage your time,make <span>things</span>
@@ -51,28 +51,28 @@ export const Home = () => {
                 </label>
                 <section id="content1" data-aos="zoom-in">
                   <img
-                    src="assets/images/screen-1.png"
+                    src= "./src/assets/images/screen-1.png"
                     className="img-fluid"
                     alt="mobile-image"
                   />
                 </section>
                 <section id="content2" data-aos="zoom-in">
                   <img
-                    src="assets/images/screen-2.png"
+                    src="./src/assets/images/screen-2.png"
                     className="img-fluid"
                     alt="mobile-image"
                   />
                 </section>
                 <section id="content3" data-aos="zoom-in">
                   <img
-                    src="assets/images/screen-3.png"
+                    src="./src/assets/images/screen-3.png"
                     className="img-fluid"
                     alt="mobile-image"
                   />
                 </section>
                 <section id="content4" data-aos="zoom-in">
                   <img
-                    src="assets/images/screen-4.png"
+                    src="./src/assets/images/screen-4.png"
                     className="img-fluid"
                     alt="mobile-image"
                   />
@@ -82,6 +82,7 @@ export const Home = () => {
           </div>
         </div>
       </section>
-    </>
+
+    </div>
   );
 };

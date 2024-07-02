@@ -16,7 +16,7 @@ export const Footer = () => {
 						<li><a href="#">Terms</a></li>
 					</ul>
 				</div>
-				<button onclick="topFunction()"
+				<button onClick="topFunction()"
                          id="movetop"
                          title="Go to top">
 				    	<span className="fa fa-angle-up"></span>
